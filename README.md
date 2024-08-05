@@ -1,11 +1,11 @@
 # project-starter
 
-Source Code: [https://github.com/rchmnde25/LBYEC2B-Project/tree/main/1233_lbyec2b_group8_project](https://github.com/rchmnde25/LBYEC2B-Project/tree/main/1233_lbyec2b_group8_project)
+Source Code: [https://github.com/rchmnde25/1233_lbyec2b_group8_project](https://github.com/rchmnde25/1233_lbyec2b_group8_project)
 
 ## Contributors
-1. Duran, Vian Gavrylle
-2. Gatchalian, Richmonde Paulo
-3. Nunag, Althea
+1. Duran, Vian Gavrylle; a BS CPE student from EQ7
+2. Gatchalian, Richmonde Paulo; a BS CPE student from EK1 
+3. Nunag, Althea; a BS ECE student from EQ8 
 
 ## Enhanced Graphing Calculator App
 The Matlab-Based graphing Calculator is designed to provide the users with a versative platform 
